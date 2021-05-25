@@ -6,7 +6,8 @@
 #include<stdio.h>
 int main()
 {
-//Write your code below this line
+  int L1 = 10,L2 = 20 ;
+  printf("L1 = %d \nL2 = %d\n ",L1,L2);
 
 
 
